@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Sean Yeoh's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sean Yeoh`,
+      summary: `lives in Sydney, follow my twitter rants.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `what is gatsby and why is this here`,
+    siteUrl: `https://yeoh.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `seanyeoh`,
     },
   },
   plugins: [
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Sean yeoh's Blog`,
+        short_name: `seanyeoh`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
