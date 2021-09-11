@@ -3,7 +3,7 @@ module.exports = {
     title: `Sean Yeoh's Blog`,
     author: {
       name: `Sean Yeoh`,
-      summary: `lives in Sydney, follow my twitter rants.`,
+      summary: `who lives in Sydney and yells at computers.`,
     },
     description: `what is gatsby and why is this here`,
     siteUrl: `https://yeoh.dev/`,
